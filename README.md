@@ -45,6 +45,8 @@ React, redux, node, Visual Studio Code, WSL
 
 - [Live Demo Link](https://healthcare-app-frontend.vercel.app/)
 
+  ![image](https://github.com/Uzair-Manzoor/healthcare-app-frontend/assets/99558868/d14e79f2-059f-4917-9c0a-8fe2d47589ef)
+
 ## Kanban Board <a name="kanban-board"></a>
 
 - Kanban board [Link](https://github.com/mahdinoori2000/healthcare-app-backend/projects/1).
